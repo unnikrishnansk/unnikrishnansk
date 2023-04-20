@@ -39,7 +39,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=unnikrishnansk&show_icons=true)
  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=unnikrishnansk)
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=unnikrishnansk)
+<!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=unnikrishnansk) -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnikrishnansk&layout=compact&theme=vue&hide_border=true" />
 
