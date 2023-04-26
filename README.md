@@ -10,7 +10,7 @@
  </h3>
 </div>
 
-<h3 align="center" text-decoration="none"><a href="https://unnikrishnansk.netlify.app/" target="_blank" rel="noopener noreferrer" >
+<h3 align="center" text-decoration="none"><a href="https://unnikrishnansk.github.io/" target="_blank" rel="noopener noreferrer" >
     Visit my website
 </a></h3>
 
