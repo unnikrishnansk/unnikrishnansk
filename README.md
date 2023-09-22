@@ -6,7 +6,7 @@
 
 <div align="center" size='20px'>
  <h3>
- An aspiring full-stack web developer with specialization in MERN stack. Self motivated and eager to work in tech-based companies. Love to learn new skills and looking forward for some challenging opportunities.
+ An aspiring full-stack web developer with specialization in MERN/MEAN stack. Self motivated and eager to work in tech-based companies. Love to learn new skills and looking forward for some challenging opportunities.
  </h3>
 </div>
 
